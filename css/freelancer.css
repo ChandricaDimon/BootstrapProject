@@ -304,7 +304,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #2C3E50;
   background: white;
   border: solid 2px white;
 }
@@ -320,8 +320,8 @@ footer .footer-below {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #1a242f;
-  border-color: #161f29;
+  background-color: #2C3E50;
+  border-color: #2C3E50;
 }
 .btn-primary:active,
 .btn-primary.active,
